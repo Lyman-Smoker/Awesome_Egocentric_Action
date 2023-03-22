@@ -1,6 +1,7 @@
 # Awesome_Egocentric_Action
 
 ### Survey
+- Analysis of the hands in egocentric vision: A survey **(TPAMI 2020)** [[Paper]](https://arxiv.org/pdf/1912.10867.pdf)
 
 
 ### 2022
